@@ -1,0 +1,46 @@
+body{
+    background-size: cover;
+
+}
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+
+}
+.note{
+    font-size: 19px;
+    color: #1018a3;
+}
+.div_mage{
+    float: left;
+}
+.div_mage_image{
+    width: 200px;
+    border-radius: 100px;
+
+}
+.div_maga{
+    float: right;
+}
+.div_maga_image{
+    width: 200px;
+    border-radius: 100px;
+    
+}
+#mage{
+    font-size: 23px;
+    margin: 15px;
+}
+#maga{
+    font-size: 23px;
+    margin: 15px;
+}
+.play_button{
+    width: 130px;
+    font-size: 25px;
+
+}
+canvas{
+    border: 5px ridge #221f70;    
+}
